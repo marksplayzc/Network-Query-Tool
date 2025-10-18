@@ -1,0 +1,105 @@
+# 1. A robot may not injure a web server or, through inaction, allow a web
+#    server to come to harm.
+# 2. A robot must obey orders given to it by web servers except where such
+#    orders would conflict with the First Law.
+# 3. A robot must protect its own existence as long as such protection does
+#    not conflict with the First or Second Law.
+#
+# This site respects ethical indexing.
+# All others, please flap elsewhere.
+
+# Allowed
+# Archive & Preservation Bots
+User-agent: ia_archiver
+User-agent: archive.org_bot
+User-agent: Applebot-Extended
+Disallow: /.well-known/security.txt
+Disallow: 
+
+# Search Engine Indexers
+User-agent: Bingbot
+User-agent: Gigablast
+User-agent: Googlebot
+User-agent: MojeekBot
+User-agent: Qwantify
+User-agent: Qwantify/Bleriot
+User-agent: SeznamBot
+User-agent: Sogou Spider
+User-agent: SwisscowsBot
+User-agent: Yandex
+Disallow: 
+Disallow: /.well-known/security.txt
+
+# Banned
+# AI Crawlers & LLM Indexers
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: ClaudeBot
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: PerplexityBot
+Disallow: /
+
+# SEO & Marketing Scrapers
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+User-agent: BLEXBot
+User-agent: CheckMarkNetwork
+User-agent: DAUM
+User-agent: DataForSeoBot
+User-agent: SEOkicks
+User-agent: SenutoBot
+User-agent: serpstatbot
+User-agent: SiteScoreBot
+User-agent: SMTBot
+Disallow: /
+
+# Educational & Research Crawlers
+User-agent: MaCoCu
+User-agent: MixnodeCache
+User-agent: MyEducationalCrawler
+User-agent: panscient.com
+User-agent: TurnitinBot
+Disallow: /
+
+# General Crawlers & Indexers
+User-agent: BUbiNG
+User-agent: CCBot
+User-agent: dotbot
+User-agent: FriendlyCrawler
+User-agent: Friendly_Crawler
+User-agent: FemtosearchBot
+User-agent: IonCrawl
+User-agent: MJ12bot
+User-agent: Neevabot
+User-agent: proximic
+User-agent: Thinkbot
+User-agent: Website-info.net
+Disallow: /
+
+# Data Analytics & Metrics Crawlers
+User-agent: Bytespider
+User-agent: dataprovider
+User-agent: DnBCrawler-Analytics
+User-agent: ltx71
+Disallow: /
+
+# Data Aggregators & Scrapers
+User-agent: AhrefsBot
+User-agent: Cliqzbot
+User-agent: GetProxi.es-bot
+User-agent: iSec_Bot
+User-agent: MauiBot
+User-agent: NTENTbot
+User-agent: omgili
+User-agent: omgilibot
+User-agent: Scrapy
+User-agent: sentibot
+User-agent: trendictionbot
+User-agent: yacybot
+Disallow: /
+
+# Web Archival Crawlers
+User-agent: Arquivo-web-crawler
+User-agent: special_archiver
+Disallow: /
